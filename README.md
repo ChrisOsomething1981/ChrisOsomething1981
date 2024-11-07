@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Introduction
 
-My dyslexia has given me a unique perspective on my journey as a software testing engineer. While it has presented challenges, it has also gifted me with exceptional problem-solving skills. These skills and my unwavering determination to overcome obstacles have made me an invaluable asset to any team.
+Experienced Quality Assurance Engineer with a strong foundation in manual testing and test automation, a. Proven track record of leading and motivating teams to deliver high-quality software products. Skilled in Agile methodologies, test case design, and defect management.
 
 💡Passion for Software Quality
 
@@ -34,7 +34,6 @@ I am passionate about software quality and take immense pride in crafting compre
 ### Testing Tools and Methodologies
 
 - 🧩 Agile methodologies
-- 🕸️ Selenium WebDriver
 - 🎭 Playwright
 - 🧪 Functional Testing
 - ⚙️ SDLC 
